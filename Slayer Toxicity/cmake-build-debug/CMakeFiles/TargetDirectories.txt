@@ -1,3 +1,0 @@
-C:/Users/ethoge01/OneDrive - Wayne State College/CSC150/Slayer Toxicity/cmake-build-debug/CMakeFiles/Slayer_Toxicity.dir
-C:/Users/ethoge01/OneDrive - Wayne State College/CSC150/Slayer Toxicity/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/ethoge01/OneDrive - Wayne State College/CSC150/Slayer Toxicity/cmake-build-debug/CMakeFiles/rebuild_cache.dir
